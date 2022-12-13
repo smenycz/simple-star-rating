@@ -147,3 +147,5 @@ var SimpleStarRating = (function () {
 
     return SimpleStarRating;
 })();
+
+export default SimpleStarRating;
